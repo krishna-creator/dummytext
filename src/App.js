@@ -59,7 +59,7 @@ function App() {
             min="1"
             onChange={(e) => setValue(e.target.value)}
           />
-          <input className="btn title" type="submit" value="Generte" />
+          <input className="btn title" type="submit" value="Generate" />
           <br />
           <label className="mr-2 mt-2" htmlFor="a">
             Random a-z 123
